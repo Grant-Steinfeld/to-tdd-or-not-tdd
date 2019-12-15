@@ -1,5 +1,23 @@
-# Blog
-## Test Driven Development
+## On Testing computer programs and sytems.
+### Chapter 1 - The History with automated testing
+### in the software world
+
+
+### Kent Beck (1994)
+
+`should` and `shouldn't`
+
+very simple - sent to Hal ( was working on obect db for smalltalk)
+
+crashing bugs - > 
+wrote small granular tests unsurfaced small bugs that contributed to the big bad crashing bug
+
+
+
+
+
+
+### Chapter 2 - the advent and adoption Test Driven Development (TDD)
 
 
 
